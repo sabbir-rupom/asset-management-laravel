@@ -1,0 +1,11 @@
+#layout_wrapper {
+    .main-content {
+        margin-left: 150px;
+        width: (100% -150px);
+    }
+}
+.sidebar {
+    width: 150px;
+    position: absolute;
+    left: 0;;
+}
